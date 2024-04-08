@@ -218,15 +218,15 @@ Let's run some queries to analyze the 2M rows of data...
     The result looks like:
     ```response
     ┌─pickup_date─┬─pickup_ntaname───────────────────────────────────────────┬─number_of_trips─┐
-    │  2015-07-01 │ Brooklyn Heights-Cobble Hill                             │              13 │
-    │  2015-07-01 │ Old Astoria                                              │               5 │
-    │  2015-07-01 │ Flushing                                                 │               1 │
-    │  2015-07-01 │ Yorkville                                                │             378 │
-    │  2015-07-01 │ Gramercy                                                 │             344 │
-    │  2015-07-01 │ Fordham South                                            │               2 │
-    │  2015-07-01 │ SoHo-TriBeCa-Civic Center-Little Italy                   │             621 │
-    │  2015-07-01 │ Park Slope-Gowanus                                       │              29 │
-    │  2015-07-01 │ Bushwick South                                           │               5 │
+    │  2015-07-01 │ West Concourse                                           │               2 │
+    │  2015-07-01 │ Prospect Heights                                         │               5 │
+    │  2015-07-01 │ West Village                                             │             836 │
+    │  2015-07-01 │ South Jamaica                                            │               1 │
+    │  2015-07-01 │ Lincoln Square                                           │             507 │
+    │  2015-07-01 │ Central Harlem South                                     │              33 │
+    │  2015-07-01 │ Turtle Bay-East Midtown                                  │             999 │
+    │  2015-07-01 │ East Harlem North                                        │              32 │
+    │  2015-07-01 │ Crown Heights North                                      │               3 │
     ```
 
 
